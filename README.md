@@ -4,6 +4,4 @@ Esta página de Github ha sido creada mediante un tutorial guiado con el fin de 
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-# Header 1
+Esta página es una representación gráfica del README.md del repositorio.
